@@ -19,6 +19,6 @@ Banco usado: MongoDB.
 1. ``git clone https://github.com/GustavoBlaze/APIStarWar-Node.JS.git``
 2. ``cd APIStarWar-Node.JS``
 
-### :rocket: Iniciando com o backend
-1. ``cd backend``
-2. ``npm start``
+### :rocket: Iniciando com o projeto
+1. ``npm start`` <br>
+2. ``porta 3000`` <br>
